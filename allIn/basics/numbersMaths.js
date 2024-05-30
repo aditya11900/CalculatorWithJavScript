@@ -21,5 +21,3 @@ console.log(Math.max(2, 3, 4, 5, 6)); // 6
 
 console.log(Math.random()); // it will give a random number between 0 and 1
 console.log(Math.floor(Math.random() * 10 + 1)); // it will give a random number between 1 and 10 
-console.log(Math.floor(Math.random() * 100 + 1)); // it will give a random number between 1 and 100
-console.log(Math.floor(Math.random() * 1000 + 1)); // it will give a random number between 1 and 1000
